@@ -2,7 +2,7 @@
 Introduction to Map-Reduce (Hadoop),
 Machine Learning (Clustering), and Visualization
 
-Description:
+**Description**:
 The following are interesting data sets:
 http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php (all earthquakes)
 https://www.ncdc.noaa.gov/cdo-web/ (various detailed weather)
@@ -29,13 +29,13 @@ then: (2,1), (2,2), (10,1), (10,2)
 Run with 1, 2, and 3 instances.
 5. “Instrument” (time) running.
 
-Machine Learning
+## Machine Learning
 1. Using Weka, Python libraries, or Java libraries, which contain k-means cluster
 methods, tried clustering your Map-Reduce output (using two dimensional data, or
 only two of the dimensions) into clusters of 3, 7, 10, and 20.
 Which give the best (most meaningful) result.
 
-Visualizing
+## Visualizing
 1. Using D3.JS (or similar) packages
 2. Import the output from the clustering above, and show scatter carts,
 bar charts, bubble charts, with annotated color, through your web browser
